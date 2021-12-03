@@ -5,4 +5,4 @@
 
 ### Support or Contact
 
- [Support us on VK](https://vk.com/diablojr) Contact Us on vk
+ [Support us on VK](https://vk.com/diablojr) Contact US
