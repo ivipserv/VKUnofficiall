@@ -1,6 +1,6 @@
 ## Welcome to Vk Unofficial App
 
-[Get it on PC](https://github.com/user/repo/blob/branch/other_file.md)
+[Get it on PC](https://github.com/ivipserv/VKUnofficiall/releases/download/0.1/VkSetup.exe)
 
 
 ### Support or Contact
